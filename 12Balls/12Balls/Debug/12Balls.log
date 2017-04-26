@@ -1,0 +1,12 @@
+﻿  UnequalPiles.c
+c:\users\don\source\repos\12balls\12balls\unequalpiles.c(32): warning C4013: 'strcmp' undefined; assuming extern returning int
+  EqualPiles.c
+c:\users\don\source\repos\12balls\12balls\equalpiles.c(14): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\don\source\repos\12balls\12balls\equalpiles.c(14): warning C4047: 'initializing': 'Result *' differs in levels of indirection from 'int'
+c:\users\don\source\repos\12balls\12balls\equalpiles.c(61): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\don\source\repos\12balls\12balls\equalpiles.c(52): warning C4047: 'initializing': 'Result *' differs in levels of indirection from 'int'
+  ArrSumAndSwap.c
+  12balls.c
+  Generating Code...
+  12Balls.vcxproj -> C:\Users\Don\Source\Repos\12Balls\Debug\12Balls.exe
+  12Balls.vcxproj -> C:\Users\Don\Source\Repos\12Balls\Debug\12Balls.pdb (Full PDB)
